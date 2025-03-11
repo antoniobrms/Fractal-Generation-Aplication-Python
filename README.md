@@ -1,5 +1,6 @@
 # Fractal-Generation-Aplication-Python
 
+```markdown
 # Fractal Generation Application - User Manual
 
 ## Overview
@@ -16,6 +17,7 @@ This Python application generates four different types of fractals: Julia Set, M
 To install dependencies, run:
 ```bash
 pip install numpy matplotlib
+```
 
 ## How to Use the Application
 
@@ -30,10 +32,10 @@ pip install numpy matplotlib
 ### 2. Main Menu
 After starting the program, you will be presented with the following options:
 
-1. Generate Julia Set Fractal
-2. Generate Modified Mandelbrot Fractal
-3. Generate Phoenix Fractal
-4. Generate Multi-step Polynomiograph
+1. Generate Julia Set Fractal  
+2. Generate Modified Mandelbrot Fractal  
+3. Generate Phoenix Fractal  
+4. Generate Multi-step Polynomiograph  
 0. Exit the program
 
 ### 3. Generating Fractals
@@ -64,4 +66,3 @@ Do you want to save the fractal as a PNG file? (yes/no)
 - The saved fractal images will be in `.png` format with a resolution of 1600x1600 pixels for Julia Set and Mandelbrot fractals, and 800x800 pixels for Phoenix fractals.
 - The executable version is only available for macOS.
 
-```

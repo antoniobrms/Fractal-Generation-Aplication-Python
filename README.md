@@ -1,7 +1,5 @@
 # Fractal-Generation-Aplication-Python
 
-
-```markdown
 # Fractal Generation Application - User Manual
 
 ## Overview
@@ -18,7 +16,7 @@ This Python application generates four different types of fractals: Julia Set, M
 To install dependencies, run:
 ```bash
 pip install numpy matplotlib
-```
+
 
 ## How to Use the Application
 

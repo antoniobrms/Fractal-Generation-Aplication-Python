@@ -17,7 +17,6 @@ To install dependencies, run:
 ```bash
 pip install numpy matplotlib
 
-
 ## How to Use the Application
 
 ### 1. Starting the Program
@@ -65,9 +64,4 @@ Do you want to save the fractal as a PNG file? (yes/no)
 - The saved fractal images will be in `.png` format with a resolution of 1600x1600 pixels for Julia Set and Mandelbrot fractals, and 800x800 pixels for Phoenix fractals.
 - The executable version is only available for macOS.
 
-## License
-This project is licensed under the MIT License. See the LICENSE file for more details.
-
 ```
-
-Let me know if you'd like to adjust any part of the manual or description!

@@ -1,14 +1,5 @@
 # Fractal-Generation-Aplication-Python
 
-### Project Directory Name:
-`Fractal_Generation_Python`
-
-### Short Description (in English):
-A Python program to generate and visualize fractals (Julia Set, Modified Mandelbrot, Phoenix, and Multi-step Polynomiograph), with the ability to save fractal images as PNG files.
-
----
-
-### User Manual (Markdown Format):
 
 ```markdown
 # Fractal Generation Application - User Manual

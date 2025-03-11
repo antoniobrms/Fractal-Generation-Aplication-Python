@@ -1,6 +1,3 @@
-# Fractal-Generation-Aplication-Python
-
-```markdown
 # Fractal Generation Application - User Manual
 
 ## Overview
